@@ -1,4 +1,4 @@
-# SmartCCTV Camera - Build with a Raspberry Pi
+# Smart Surveillance System
 
 Build your own home Raspberry Pi powered surveillance iOT camera with Face recognition, access your live feed for any device.
 
